@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @kachi-k
-- 👀 I’m interested in Front-end Engineering, Android development and UI/UX.
-- 🌱 I’m currently learning how to build applications with java and kotlin, and various front end development technologies.
-- 💞️ I’m looking to collaborate on mini projects to help me hone my skills and as well biuld a community for myself with other developers
+- 👋 Hi, My name is Oreoluwa Olaiya
+- 🎺 I am data enthusiast, with a young career in Data science.
+- 👩🏻‍💻I have a degree in CS, certifications from Datacamp and Explore Data Science Academy
+- 🌱 I’m currently working on projects to hone my skills and kick-start my data science career
+- 👀 Look around and hit me up at olaiyaoreoluwa@gmail.com 
 
 <!---
 kachi-k/kachi-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
